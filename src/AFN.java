@@ -2,6 +2,7 @@ package FTC_TP2.src;
 
 import java.util.*;
 
+
 public class AFN {
     private String traducaoExpressaoRegular;
     private List<Character> symbolList;
